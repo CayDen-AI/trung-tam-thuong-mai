@@ -11,9 +11,6 @@ sudo apt install docker-ce
 sudo curl -L "https://github.com/docker/compose/releases/download/1.28.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
 sudo chmod +x /usr/local/bin/docker-compose
 
-# Clone Budibase repo
-git clone https://github.com/Budibase/budibase.git
-
 # Bắt đầu khởi chạy 
-cd budibase/hosting
+cd trung-tam-thuong-mai/budibase/hosting
 sudo docker-compose --env-file hosting.properties up

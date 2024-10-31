@@ -11,11 +11,11 @@ Trong bối cảnh thị trường bán lẻ ngày càng cạnh tranh, việc cu
 
 ## Cấu trúc thư mục
 ```text
-.
-└── TRUNG-TAM-THUONG-MAI/
+trung-tam-thuong-mai/
     ├── asserts/
     │   ├── image.png
     │   └── ...
+    ├── budibase/
     ├── src/
     │   ├── file.tar.gz
     │   └── ...
@@ -25,6 +25,11 @@ Trong bối cảnh thị trường bán lẻ ngày càng cạnh tranh, việc cu
 ```
 
 ## Cài đặt sử dụng
+
+**Clone project về máy**
+```bash
+git clone https://github.com/CayDen-AI/trung-tam-thuong-mai.git
+```
 
 1. **Cài đặt và khởi chạy nhanh qua**
 ```bash
@@ -43,9 +48,17 @@ sh setup.sh
 ## Liên hệ
 
 Nguyễn Hải Đăng: 22a1001d0049@students.hou.edu.vn<br>
-Lê Hoàng Phúc:<br>
+Lê Hoàng Phúc: 22a1001d0254@students.hou.edu.vn<br>
 Nguyễn Trần Duy Anh:<br> 
 
 ## Giấy phép
 
-This project is licensed under the terms of the [Apache 2.0](LICENSE) license.
+This project is licensed under the terms of the [Apache 2.0](./LICENSE) license.
+
+## Contributors
+
+<a href="https://github.com/CayDen-AI/trung-tam-thuong-mai/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CayDen-AI/trung-tam-thuong-mai" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
