@@ -26,19 +26,19 @@ Trong bối cảnh thị trường bán lẻ ngày càng cạnh tranh, việc cu
 
 ## Cài đặt sử dụng
 
-1. Cài đặt và khởi chạy nhanh qua
+1. **Cài đặt và khởi chạy nhanh qua**
 ```bash
 sh setup.sh
 ```
 
-2. Truy cập Budibase qua <a href="localhost:10000">
+2. **Truy cập Budibase qua** [localhost:10000](localhost:10000)
 
-3. Build app<br>
+3. **Build app**<br>
 ![Build Budibase app](./asserts/build-budibase-app.png)
 
-4. Import dữ liệu
+4. **Import dữ liệu**
 
-5. Import ứng dụng
+5. **Import ứng dụng**
 
 ## Liên hệ
 
