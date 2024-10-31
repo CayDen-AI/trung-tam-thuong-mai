@@ -11,11 +11,11 @@ Trong bối cảnh thị trường bán lẻ ngày càng cạnh tranh, việc cu
 
 ## Cấu trúc thư mục
 .
-└── TRUNG-TAM-THUONG-MAI/
-    ├── /asserts
-    ├── /src
-    ├── LICENSE
-    ├── README.md
+└── TRUNG-TAM-THUONG-MAI/<br>
+    ├── /asserts<br>
+    ├── /src<br>
+    ├── LICENSE<br>
+    ├── README.md<br>
     └── setup.sh
 
 ## Cài đặt sử dụng
@@ -25,9 +25,9 @@ Trong bối cảnh thị trường bán lẻ ngày càng cạnh tranh, việc cu
 sh setup.sh
 ```
 
-2. Truy cập Budibase qua <localhost:10000>
+2. Truy cập Budibase qua <a href="localhost:10000">
 
-3. Build app
+3. Build app<br>
 ![Build Budibase app](./asserts/build-budibase-app.png)
 
 4. Import dữ liệu
@@ -36,9 +36,9 @@ sh setup.sh
 
 ## Liên hệ
 
-Nguyễn Hải Đăng: 22a1001d0049@students.hou.edu.vn
-Lê Hoàng Phúc:
-Nguyễn Trần Duy Anh: 
+Nguyễn Hải Đăng: 22a1001d0049@students.hou.edu.vn<br>
+Lê Hoàng Phúc:<br>
+Nguyễn Trần Duy Anh:<br> 
 
 ## Giấy phép
 
