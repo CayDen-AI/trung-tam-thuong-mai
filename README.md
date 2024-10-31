@@ -4,8 +4,8 @@ Trong bối cảnh thị trường bán lẻ ngày càng cạnh tranh, việc cu
 
 ## Công nghệ sử dụng
 
-- Budibase: Phần mềm tự do nguồn mở ít mã
-- BudibaseDB: Hệ quản trị cơ sở dữ liệu được xây dựng bởi Budibase dựa trên couchDB
+- **Budibase**: Phần mềm tự do nguồn mở ít mã
+- **BudibaseDB**: Hệ quản trị cơ sở dữ liệu được xây dựng bởi Budibase dựa trên couchDB
 
 ## Các chức năng chính
 
@@ -31,19 +31,20 @@ trung-tam-thuong-mai/
 git clone https://github.com/CayDen-AI/trung-tam-thuong-mai.git
 ```
 
-1. **Cài đặt và khởi chạy nhanh qua**
+1. **Cài đặt và khởi chạy**
 ```bash
 sh setup.sh
 ```
 
-2. **Truy cập Budibase qua** <http://localhost:10000/>
+2. **Truy cập Budibase** <http://localhost:10000>
 
-3. **Build app**<br>
+3. **Build ứng dụng**<br>
 ![Build Budibase app](./asserts/build-budibase-app.png)
 
-4. **Import dữ liệu**
+5. **Import ứng dụng**<br>
 
-5. **Import ứng dụng**
+Để import ứng dụng, sau khi tạo ứng dụng vào `Settings > Export/Import > Import app` rồi kéo thả file tài nguyên vào, sau đó ấn `Update`<br>
+![Import application](./asserts/import-app.png)
 
 ## Liên hệ
 
@@ -60,5 +61,3 @@ This project is licensed under the terms of the [Apache 2.0](./LICENSE) license.
 <a href="https://github.com/CayDen-AI/trung-tam-thuong-mai/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=CayDen-AI/trung-tam-thuong-mai" />
 </a>
-
-Made with [contrib.rocks](https://contrib.rocks).
