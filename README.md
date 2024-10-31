@@ -31,7 +31,7 @@ Trong bối cảnh thị trường bán lẻ ngày càng cạnh tranh, việc cu
 sh setup.sh
 ```
 
-2. **Truy cập Budibase qua** [localhost:10000](localhost:10000)
+2. **Truy cập Budibase qua** <http://localhost:10000/>
 
 3. **Build app**<br>
 ![Build Budibase app](./asserts/build-budibase-app.png)
