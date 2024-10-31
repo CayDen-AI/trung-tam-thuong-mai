@@ -10,13 +10,19 @@ Trong bối cảnh thị trường bán lẻ ngày càng cạnh tranh, việc cu
 ## Các chức năng chính
 
 ## Cấu trúc thư mục
+```text
 .
-└── TRUNG-TAM-THUONG-MAI/<br>
-    ├── /asserts<br>
-    ├── /src<br>
-    ├── LICENSE<br>
-    ├── README.md<br>
+└── TRUNG-TAM-THUONG-MAI/
+    ├── asserts/
+    │   ├── image.png
+    │   └── ...
+    ├── src/
+    │   ├── file.tar.gz
+    │   └── ...
+    ├── LICENSE
+    ├── README.md
     └── setup.sh
+```
 
 ## Cài đặt sử dụng
 
