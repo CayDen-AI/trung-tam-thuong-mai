@@ -12,9 +12,8 @@ Trong bối cảnh thị trường bán lẻ ngày càng cạnh tranh, việc cu
 ## Các chức năng chính
 
 - Tìm kiếm cửa hàng, sản phẩm
-- Đăng ký cửa hàng
 - Gửi form thông báo mất/nhặt đồ
-
+- Kiểm tra sản phẩm giảm giá
 
 ## Cấu trúc thư mục
 ```text
