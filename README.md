@@ -13,7 +13,7 @@ Trong bối cảnh thị trường bán lẻ ngày càng cạnh tranh, việc cu
 
 - Tìm kiếm cửa hàng, sản phẩm
 - Đăng ký cửa hàng
-- Gửi form thông báo mất đồ
+- Gửi form thông báo mất/nhặt đồ
 
 
 ## Cấu trúc thư mục
@@ -33,15 +33,23 @@ trung-tam-thuong-mai/
 
 
 ## Cài đặt sử dụng
+### Yêu cầu
 
-**Clone project về máy**
+Để sử dụng ứng dụng, bạn phải cài đặt:
+1. [Docker](https://www.docker.com/)
+2. [Docker Compose](https://docs.docker.com/compose/)
+3. [Node.js](https://nodejs.org/en/)
+4. Cài đặt self-hosted Budibase với NPM
 ```bash
-git clone https://github.com/CayDen-AI/trung-tam-thuong-mai.git
+npm install -g @budibase/cli
+budi --version  # Kiểm tra phiên bản của budibase
 ```
 
-1. **Cài đặt và khởi chạy**
+### Xây dựng ứng dụng
+
+1. **Khởi động ứng dụng**
 ```bash
-sh setup.sh
+budi hosting --start
 ```
 
 2. **Truy cập Budibase** <http://localhost:10000>
@@ -50,18 +58,32 @@ sh setup.sh
 
 ![Build Budibase app](./asserts/build-budibase-app.png)
 
-5. **Import ứng dụng**<br>
+4. **Import ứng dụng**<br>
 
 Để import ứng dụng, sau khi tạo ứng dụng vào `Settings > Export/Import > Import app` rồi kéo thả file tài nguyên vào, sau đó ấn `Update`<br>
 
 ![Import application](./asserts/import-app.png)
 
+### Cách cài đặt khác 
+1. **Clone project về máy**
+```bash
+git clone https://github.com/CayDen-AI/trung-tam-thuong-mai.git
+```
+
+2. **Cài đặt và khởi chạy**
+```bash
+sh setup.sh
+```
+
+## Tài liệu người dùng
+
+Tài liệu dành cho người sử dụng ứng dụng [Document](./docs/Tài%20liệu%20người%20dùng.odt)
 
 ## Liên hệ
 
-Nguyễn Hải Đăng: 22a1001d0049@students.hou.edu.vn<br>
-Lê Hoàng Phúc: 22a1001d0254@students.hou.edu.vn<br>
-Nguyễn Trần Duy Anh: 
+- Nguyễn Hải Đăng: 22a1001d0049@students.hou.edu.vn<br>
+- Lê Hoàng Phúc: 22a1001d0254@students.hou.edu.vn<br>
+- Nguyễn Trần Duy Anh: 24a1001d025@students.hou.edu.vn
 
 
 ## Giấy phép
