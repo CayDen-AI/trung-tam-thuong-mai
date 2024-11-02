@@ -14,6 +14,7 @@ Trong bối cảnh thị trường bán lẻ ngày càng cạnh tranh, việc cu
 - Tìm kiếm cửa hàng, sản phẩm
 - Gửi form thông báo mất/nhặt đồ
 - Kiểm tra sản phẩm giảm giá
+- Tủ đồ thông minh
 
 ## Cấu trúc thư mục
 ```text
