@@ -93,6 +93,6 @@ This project is licensed under the terms of the [Apache 2.0](./LICENSE) license.
 
 ## Contributors
 
-<a href="https://github.com/CayDen-AI/trung-tam-thuong-mai/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=CayDen-AI/trung-tam-thuong-mai" />
-</a>
+- Nguyễn Hải Đăng: [@CayDen_AI](https://github.com/CayDen-AI)
+- Lê Hoàng Phúc: [@phucnt2004](https://github.com/phucnt2004)
+- Nguyễn Trần Duy Anh: [@Duyanha37](https://github.com/Duyanha37)
